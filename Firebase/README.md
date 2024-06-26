@@ -53,6 +53,8 @@ The Resume Parser App is an Firebase & Web application built with Jetpack Compos
 
 ## A big shoutout to [Anubhav Singh](https://www.linkedin.com/in/xprilion/) who helped us with his expertise to complete this firebase functions resume parser. Do checkout the repository -> https://github.com/xprilion/cloud-functions-file-forwarding-api
 
+## Mentors: [Usha Rengaraju](https://linkedin.com/in/usha-rengaraju-b570b7a2),  [Anubhav Singh](https://www.linkedin.com/in/xprilion/)
+
 ## Demo
 https://www.loom.com/share/e942a3879038415dae62f707fb074dce?sid=a8d8c42f-e42f-419c-89e9-3c8ec2df8ce1
 
